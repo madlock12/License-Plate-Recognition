@@ -1,0 +1,1 @@
+To properly test search by image on already present data, you can provide "1.jpeg" till "10.jpeg" when asked for image path.

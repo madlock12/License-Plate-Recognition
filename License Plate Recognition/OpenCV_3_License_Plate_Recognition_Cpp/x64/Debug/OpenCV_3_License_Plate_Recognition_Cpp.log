@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Work\Desktop\License Plate Recognition\OpenCV_3_License_Plate_Recognition_Cpp\driverSystem.cpp(700): warning C4715: 'UI::searchByImage': not all control paths return a value
+  OpenCV_3_License_Plate_Recognition_Cpp.vcxproj -> C:\Users\Work\Desktop\License Plate Recognition\x64\Debug\OpenCV_3_License_Plate_Recognition_Cpp.exe
